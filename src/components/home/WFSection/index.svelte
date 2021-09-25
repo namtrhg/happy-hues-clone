@@ -100,7 +100,7 @@
     </div>
     <div class="hero">
       <div class="hero-content-wrap">
-        <h1 data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1557" >
+        <h1>
           Curated colors in context.
         </h1>
         <p data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1559" >
@@ -457,6 +457,7 @@
             title="Copied 🙌"
             data-clipboard-text="#FFFFFF"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -473,6 +474,7 @@
             title="Copied 😘"
             data-clipboard-text="#1f1235"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -489,6 +491,7 @@
             title="Copied ✌️"
             data-clipboard-text="#1b1425"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -505,6 +508,7 @@
             title="Copied 😉"
             data-clipboard-text="#ff6e6c"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -521,6 +525,7 @@
             title="Copied 🦄"
             data-clipboard-text="#1f1235"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -541,6 +546,7 @@
             title="Copied 🤙"
             data-clipboard-text="#1f1235"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -557,6 +563,7 @@
             title="Copied 🤩"
             data-clipboard-text="#FFFFFF"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -573,6 +580,7 @@
             title="Copied 😎"
             data-clipboard-text="#ff6e6c"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -589,6 +597,7 @@
             title="Copied 🥳"
             data-clipboard-text="#67568c"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
@@ -605,6 +614,7 @@
             title="Copied 🚀"
             data-clipboard-text="#fbdd74"
             class="section-hues-row"
+            href="/"
           >
             <div class="flex-vertical">
               <div
