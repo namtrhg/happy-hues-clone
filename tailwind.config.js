@@ -7,10 +7,6 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      fontFamily: {
-        ...theme.fontFamily,
-        sans: ['sans-serif', ...theme.fontFamily.sans],
-      },
       textColor: {
         'primary': '#1f1235',
       },
