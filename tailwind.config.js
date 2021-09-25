@@ -9,7 +9,10 @@ module.exports = {
     extend: {
       fontFamily: {
         ...theme.fontFamily,
-        sans: ['"Epilogue" ,sans-serif', ...theme.fontFamily.sans],
+        sans: ['sans-serif', ...theme.fontFamily.sans],
+      },
+      textColor: {
+        'primary': '#1f1235',
       },
       colors: {
         purple: {
@@ -20,7 +23,7 @@ module.exports = {
       },
       margin: {
         '-7px': '-7px',
-       }
+      }
     },
   },
   variants: {
@@ -29,6 +32,12 @@ module.exports = {
   plugins: [
     plugin(({ addUtilities }) => {
       const newUtilities = {
+        '.container': {
+          width: '90%',
+          maxWidth: '1040px',
+          marginRight: 'auto',
+          marginLeft: 'auto',
+        }
       }
       addUtilities(newUtilities)
     }),
