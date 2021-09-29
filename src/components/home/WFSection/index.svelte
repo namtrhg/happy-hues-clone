@@ -445,7 +445,7 @@
           }
         </style>
       </div>
-      <h3 class="section-hues__title">This sections hues</h3>
+      <h3 class="mt-0 text-gray-900 text-[2rem] leading-[30px] font-bold">This sections hues</h3>
       <p class="section-hues__sub-title">
         Click to copy the hex code to your clipboard
       </p>
