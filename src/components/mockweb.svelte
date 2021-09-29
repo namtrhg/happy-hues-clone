@@ -118,7 +118,7 @@
                 <a
                   data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc155e"
                   href="/palettes/5"
-                  class="button hero-button w-button"
+                  class="button hero-button inline-block text-white no-underline cursor-pointer rounded-none"
                   >Try changing the palette!</a
                 >
               </div>
@@ -1867,7 +1867,7 @@
             }
           </style>
         </div>
-        <h3 class="mt-0 text-gray-900 text-[2rem] leading-[30px] font-bold bio">This sections hues</h3>
+        <h3 class="mt-0 text-white text-[2rem] leading-[30px] font-bold">This sections hues</h3>
         <p class="section-hues__sub-title bio">
           Click to copy the hex code to your clipboard
         </p>
