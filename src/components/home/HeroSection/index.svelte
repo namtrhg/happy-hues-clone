@@ -2,6 +2,7 @@
   <div class="container">
     <div class="header">
       <a
+        data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc154e"
         href="/"
         aria-current="page"
         class="logo w-inline-block w--current"
@@ -85,6 +86,7 @@
         </div>
       </a>
       <div
+        data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1550"
         class="header-nav"
       >
         <a
@@ -100,23 +102,22 @@
     </div>
     <div class="hero">
       <div class="hero-content-wrap">
-        <h1>
+        <h1 class="block mt-0 mb-4 text-[3.5rem] font-bold leading-[1.15]">
           Curated colors in context.
         </h1>
-        <p data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1559" >
+        <p class="mb-[10px] text-[1.3rem] leading-[1.8] font-normal" >
           Not sure what colors to use in your designs or where to use them?
           Happy Hues is a color palette inspiration site that acts as a real
           world example as to how the colors could be used in your design
-          projects.
+          projects. 
         </p>
         <div class="w-dyn-list">
           <div role="list" class="w-dyn-items">
             <div role="listitem" class="w-dyn-item">
               <a
-                data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc155e"
-                
                 href="/palettes/5"
-                class="button hero-button w-button">Try changing the palette!</a
+                class="mt-10 text-[17.6px] bg-red-500 rounded-sm text-lg font-bold cursor-pointer py-[1.2rem] px-[2rem] inline-block no-underline"
+                >Try changing the palette!</a
               >
             </div>
           </div>
@@ -124,7 +125,6 @@
       </div>
       <div
         data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1563"
-        
         class="hero-illy-wrap"
       >
         <div class="w-embed">
@@ -428,8 +428,7 @@
       </div>
     </div>
     <div
-      data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1565"
-      style="display:block;opacity:0"
+      style="display:block"
       class="section-hues-wrap"
     >
       <div class="w-embed">
@@ -630,4 +629,3 @@
     </div>
   </div>
 </div>
-

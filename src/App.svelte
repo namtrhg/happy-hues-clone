@@ -1,15 +1,20 @@
 <script lang="ts">
   import SideBar from "./components/SideBar/index.svelte";
-  import WFSection from "./components/home/WFSection/index.svelte";
-  import MockWeb from "./components/mockweb.svelte";
-  import Mockweb from "./components/mockweb.svelte";
+  import HeroSection from "./components/home/HeroSection/index.svelte";
+  import ColorSection from "./components/home/ColorSection/index.svelte"
+  import ColorInfoSection from "./components/home/ColorInfoSection/index.svelte"
+  import FounderSection from "./components/home/FounderSection/index.svelte"
+  import Footer from "./components/Footer/index.svelte"
 </script>
 
 <main class="flex flex-row">
   <SideBar />
   <div class="flex-grow">
-    <!-- <WFSection /> -->
-    <Mockweb />
+    <HeroSection/>
+    <ColorSection/>
+    <ColorInfoSection/>
+    <FounderSection/>
+    <Footer/>
   </div>
 </main>
 

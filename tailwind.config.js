@@ -1,5 +1,5 @@
 const theme = require("tailwindcss/defaultTheme");
-const plugin = require("tailwindcss/plugin")
+const plugin = require("tailwindcss/plugin");
 
 module.exports = {
   mode: "jit",
@@ -8,18 +8,21 @@ module.exports = {
   theme: {
     extend: {
       textColor: {
-        'primary': '#1f1235',
+        primary: "#1f1235",
       },
       colors: {
+        red: {
+          500: "#ff6e6c",
+        },
         purple: {
-          750: '#301e4e',
-          800: '#1f1235',
-          900: '#301e4e',
+          750: "#301e4e",
+          800: "#1f1235",
+          900: "#301e4e",
         },
       },
       margin: {
-        '-7px': '-7px',
-      }
+        "-7px": "-7px",
+      },
     },
   },
   variants: {
@@ -28,14 +31,14 @@ module.exports = {
   plugins: [
     plugin(({ addUtilities }) => {
       const newUtilities = {
-        '.container': {
-          width: '90%',
-          maxWidth: '1040px',
-          marginRight: 'auto',
-          marginLeft: 'auto',
-        }
-      }
-      addUtilities(newUtilities)
+        ".container": {
+          width: "90%",
+          maxWidth: "1040px",
+          marginRight: "auto",
+          marginLeft: "auto",
+        },
+      };
+      addUtilities(newUtilities);
     }),
   ],
 };
