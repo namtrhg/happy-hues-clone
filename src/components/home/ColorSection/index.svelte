@@ -4,8 +4,8 @@
         data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1569"
         class="section-header centered"
       >
-        <h2 class="mt-0 text-[3rem] font-bold leading-[1.3]">Color terminology</h2>
-        <p>
+        <h2 class="mt-0 text-[3rem] font-bold leading-[1.3] mb-[10px]">Color terminology</h2>
+        <p class="text-[1.3rem] leading-[1.8] mb-[10px]">
           Let’s learn the terminology of color. You can think of each of these
           as ‘levers’ that you pull to create different colors.
         </p>
@@ -51,9 +51,9 @@
                 </svg>
               </div>
             </div>
-            <h3 class="card-header__title">Hue</h3>
+            <h3 class="text-[32px] font-bold">Hue</h3>
           </div>
-          <p class="card-copy">
+          <p class="text-[1.2rem] leading-[1.8]">
             Hue is basically a fancy name for color... Sort of. Hue refers to
             the parent color, or rather the fully saturated color that doesn’t
             have any white (tint) or black (shade) added to it.
@@ -124,9 +124,9 @@
                 </svg>
               </div>
             </div>
-            <h3 class="card-header__title">Tint</h3>
+            <h3 class="text-[32px] font-bold">Tint</h3>
           </div>
-          <p class="card-copy">
+          <p class="text-[1.2rem] leading-[1.8]">
             A tint is created when you add white to a hue. When working in
             Figma, Sketch or any of the adobe programs, you can create a tint by
             lowering the saturation value of your hue.
@@ -197,9 +197,9 @@
                 </svg>
               </div>
             </div>
-            <h3 class="card-header__title">Shade</h3>
+            <h3 class="text-[32px] font-bold">Shade</h3>
           </div>
-          <p class="card-copy">
+          <p class="text-[1.2rem] leading-[1.8]">
             A shade is created when you add black to a hue. Again, when working
             in Figma, Sketch or any of the adobe programs, you can create a
             shade by lowering the brightness value of your hue.
@@ -271,9 +271,9 @@
                 </svg>
               </div>
             </div>
-            <h3 class="card-header__title">Tone</h3>
+            <h3 class="text-[32px] font-bold">Tone</h3>
           </div>
-          <p class="card-copy">
+          <p class="text-[1.2rem] leading-[1.8]">
             A tone is in between a tint and a shade. Basically you&#x27;re
             adding grey, aka both white &amp; black, to your hue.
           </p>
@@ -332,9 +332,9 @@
                 </svg>
               </div>
             </div>
-            <h3 class="card-header__title">Value</h3>
+            <h3 class="text-[32px] font-bold">Value</h3>
           </div>
-          <p class="card-copy">
+          <p class="text-[1.2rem] leading-[1.8]">
             Value refers to the measurement of brightness of a hue. Basically
             it&#x27;s how light or dark the color is and how much light it
             emits.
@@ -392,9 +392,9 @@
                 </svg>
               </div>
             </div>
-            <h3 class="card-header__title">Saturation</h3>
+            <h3 class="text-[32px] font-bold">Saturation</h3>
           </div>
-          <p class="card-copy">
+          <p class="text-[1.2rem] leading-[1.8]">
             Saturation refers to the purity of the color. High saturated colors
             are very vibrant and bright, while low saturated colors are kinda
             dull.
@@ -422,7 +422,7 @@
         <p class="section-hues__sub-title">
           Click to copy the hex code to your clipboard
         </p>
-        <h4>Elements</h4>
+        <h4 class="py-[10px] font-bold">Elements</h4>
         <div class="w-embed">
           <div class="hues-wrap">
             <a
@@ -534,7 +534,7 @@
             </a>
           </div>
         </div>
-        <h4>Icons</h4>
+        <h4 class="py-[10px] font-bold"> Icons</h4>
         <div class="w-embed">
           <div class="hues-wrap">
             <a

@@ -448,7 +448,7 @@
       <p class="section-hues__sub-title">
         Click to copy the hex code to your clipboard
       </p>
-      <h4>Elements</h4>
+      <h4 class="py-[10px] font-bold">Elements</h4>
       <div class="w-embed">
         <div class="hues-wrap">
           <a
@@ -537,7 +537,7 @@
           </a>
         </div>
       </div>
-      <h4>Illustration</h4>
+      <h4 class="py-[10px] font-bold">Illustration</h4>
       <div class="w-embed">
         <div class="hues-wrap">
           <a

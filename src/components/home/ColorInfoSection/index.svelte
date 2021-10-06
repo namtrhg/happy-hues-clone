@@ -2,7 +2,7 @@
     <div class="container">
       <div class="sticky-section w-clearfix">
         <div class="sticky-col">
-          <h2 data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc15a5">
+          <h2 class="text-[48px] mb-[10px] font-bold">
             The psychology of color
           </h2>
           <p data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc15a7">

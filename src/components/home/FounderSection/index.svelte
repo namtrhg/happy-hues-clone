@@ -4,24 +4,24 @@
         <div class="bio-content-wrap">
           <h2
             data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1680"
-            class="bio-content__title"
+            class="bio-content__title text-[48px] leading-[1.3] font-bold"
           >
             Who&#x27;s behind Happy Hues?
           </h2>
           <p
             data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1682"
-            class="bio-copy top"
+            class="bio-copy text-[1.2rem] leading-[1.8] top"
           >
             Hi there 👋 My name is
             <a
               href="https://www.mackenziechild.me/"
               target="_blank"
-              class="link">Mackenzie Child</a
+              class="text-[#F25A4E] underline">Mackenzie Child</a
             >, I&#x27;m the maker of Happy Hues. One of my favorite things to do
             is launch fun, useful and sometimes silly side-projects that I think
             should exist outside my head :)
           </p>
-          <p data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1687" class="bio-copy">
+          <p data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc1687" class="bio-copy text-[1.2rem] leading-[1.8]">
             My goal with Happy Hues was to try to remove the issue where you
             know you like a color palette, but you&#x27;re unsure about how to
             apply it to your design or illustration. I built this site to not
@@ -44,7 +44,7 @@
       <div class="bio-other-projects">
         <h3
           data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc168d"
-          class="bio-other-projects__title"
+          class="bio-other-projects__title mb-6 font-bold"
         >
           Some of my other projects
         </h3>
@@ -57,31 +57,31 @@
             target="_blank"
             class="bio-project w-inline-block"
           >
-            <h4 class="bio-project__title">Colorables</h4>
-            <p class="bio-project__description">
+            <h4 class="bio-project__title mb-[10px]">Colorables</h4>
+            <p class="bio-project__description  leading-[1.8]">
               Free printable coloring pages for adults &amp; kids alike.
             </p>
           </a><a
             href="http://acmelogos.com/"
             class="bio-project w-inline-block"
           >
-            <h4 class="bio-project__title">Acme Logos</h4>
-            <p class="bio-project__description">
+            <h4 class="bio-project__title mb-[10px]">Acme Logos</h4>
+            <p class="bio-project__description  leading-[1.8]">
               Professional placeholder logos for your designs projects.
             </p>
           </a><a
             href="https://mackenziechild.podia.com/blocks-wireframing-kit-for-sketch"
             class="bio-project last w-inline-block"
           >
-            <h4 class="bio-project__title">Blocks wireframe</h4>
-            <p class="bio-project__description">
+            <h4 class="bio-project__title mb-[10px]">Blocks wireframe</h4>
+            <p class="bio-project__description  leading-[1.8]">
               Makes wireframing as simple as drag &amp; drop.
             </p>
           </a>
         </div>
         <h3
           data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc169f"
-          class="bio-other-projects__title"
+          class="bio-other-projects__title mb-6"
         >
           Want to hear about what I build next?
         </h3>
@@ -156,7 +156,7 @@
         <p class="section-hues__sub-title bio">
           Click to copy the hex code to your clipboard
         </p>
-        <h4>Elements</h4>
+        <h4 class="font-bold my-[10px]">Elements</h4>
         <div class="w-embed">
           <div class="hues-wrap">
             <a
@@ -285,7 +285,7 @@
             </a>
           </div>
         </div>
-        <h4>Newsletter</h4>
+        <h4 class="font-bold my-[10px]">Newsletter</h4>
         <div class="w-embed">
           <div class="hues-wrap">
             <a
