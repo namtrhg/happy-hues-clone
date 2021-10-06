@@ -109,7 +109,7 @@
           Not sure what colors to use in your designs or where to use them?
           Happy Hues is a color palette inspiration site that acts as a real
           world example as to how the colors could be used in your design
-          projects. 
+          projects.
         </p>
         <div class="w-dyn-list">
           <div role="list" class="w-dyn-items">

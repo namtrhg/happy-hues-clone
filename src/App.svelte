@@ -22,4 +22,16 @@
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
+  @layer base {
+  @font-face {
+    font-family: Proxima Nova;
+    font-weight: 600;
+    src: url(/font/proxima-600.woff) format("woff");
+  }
+  @font-face {
+    font-family: Proxima Nova;
+    font-weight: 400;
+    src: url(/font/proxima-400.woff) format("woff");
+  }
+}
 </style>

@@ -7,6 +7,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      fontFamily: {
+        ...theme.fontFamily,
+        sans: ['Proxima Nova', ...theme.fontFamily.sans],
+      },
       textColor: {
         primary: "#1f1235",
       },
