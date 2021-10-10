@@ -89,7 +89,7 @@
               </svg>
             </div>
           </a>
-          <p class="footer-quote">
+          <p class="footer-quote leading-[1.8]">
             Happy Hues, plus the majority of my side-projects, are designed
             &amp; built visually (without code) using <a
               class="text-[#F25A4E] underline"
@@ -106,30 +106,25 @@
             Find me
           </h3>
           <a
-            data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc16c5"
             href="https://www.mackenziechild.me/"
             target="_blank"
-            class="footer-link">Web</a
+            class="footer-link leading-[1.8]">Web</a
           ><a
-            data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc16c7"
             href="https://youtu.be/7SWu7dNCOks"
             target="_blank"
-            class="footer-link">YouTube</a
+            class="footer-link leading-[1.8]">YouTube</a
           ><a
-            data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc16c9"
             href="https://www.instagram.com/mackenziechild/"
             target="_blank"
-            class="footer-link">Instagram</a
+            class="footer-link leading-[1.8]">Instagram</a
           ><a
-            data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc16cb"
             href="https://twitter.com/mackenziechild"
             target="_blank"
-            class="footer-link">Twitter</a
+            class="footer-link leading-[1.8]">Twitter</a
           ><a
-            data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc16cd"
             href="https://webflow.com/mackenziechild"
             target="_blank"
-            class="footer-link">Webflow</a
+            class="footer-link leading-[1.8]">Webflow</a
           >
         </div>
       </div>
@@ -161,7 +156,7 @@
       <h3 class="mt-0 text-gray-900 text-[2rem] leading-[30px] font-bold">
         This sections hues
       </h3>
-      <p class="section-hues__sub-title">
+      <p class="section-hues__sub-title leading-[1.8]">
         Click to copy the hex code to your clipboard
       </p>
       <div class="w-embed">

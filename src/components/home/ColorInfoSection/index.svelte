@@ -5,7 +5,7 @@
           <h2 class="text-[48px] mb-[10px] font-bold">
             The psychology of color
           </h2>
-          <p data-w-id="7c9cdc53-0ee2-6b73-f31e-a1d2cecc15a7">
+          <p class="text-[1.3rem] leading-[1.8]">
             Each color portrays a different feeling or emotion, and by
             understanding the psychology of color, you can choose a color that
             will resonate with your target audience and give off the vibe &amp;
@@ -19,7 +19,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Red</h3>
+                <h3 class="sticky-card__title font-bold">Red</h3>
               </div>
               <div class="sticky-card__color-group">Primary color</div>
             </div>
@@ -48,7 +48,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Yellow</h3>
+                <h3 class="sticky-card__title font-bold">Yellow</h3>
               </div>
               <div class="sticky-card__color-group">Primary color</div>
             </div>
@@ -85,7 +85,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Blue</h3>
+                <h3 class="sticky-card__title font-bold">Blue</h3>
               </div>
               <div class="sticky-card__color-group">Primary color</div>
             </div>
@@ -116,7 +116,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Green</h3>
+                <h3 class="sticky-card__title font-bold">Green</h3>
               </div>
               <div class="sticky-card__color-group">Secondary color</div>
             </div>
@@ -146,7 +146,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Orange</h3>
+                <h3 class="sticky-card__title font-bold">Orange</h3>
               </div>
               <div class="sticky-card__color-group">Secondary color</div>
             </div>
@@ -173,7 +173,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Purple</h3>
+                <h3 class="sticky-card__title font-bold">Purple</h3>
               </div>
               <div class="sticky-card__color-group">Primary color</div>
             </div>
@@ -202,7 +202,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">White</h3>
+                <h3 class="sticky-card__title font-bold">White</h3>
               </div>
               <div class="sticky-card__color-group">Neutral color</div>
             </div>
@@ -235,7 +235,7 @@
           >
             <div class="sticky-card__header">
               <div class="flex-vertical">
-                <h3 class="sticky-card__title">Black</h3>
+                <h3 class="sticky-card__title font-bold">Black</h3>
               </div>
               <div class="sticky-card__color-group">Neutral color</div>
             </div>
